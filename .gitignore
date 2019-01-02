@@ -3,3 +3,4 @@
 *.userosscache
 *.sln.docstates
 .vs/*
+WebApplication2/.vs/*
